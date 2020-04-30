@@ -17,9 +17,11 @@ zverinyy-ray
 <td width="250px" height="50px" bgcolor="#00FF00"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%92%D0%A5%D0%9E%D0%94,%20%D0%A0%D0%95%D0%93%D0%98%D0%A1%D0%A2%D0%A0%D0%90%D0%A6%D0%98%D0%AF.html">Вход</a></td>
 </tr>
 <tr>
-<td width="250px" height="600px" bgcolor="#D8BFD8"></td>
-<td height="600px" colspan="3">
+<td width="250px" height="600px">
 <body text = blue background ="C:\Users\ZX400\Pictures\Desktop\проект\Без названия.jpg">
+</body>
+</td>
+<td height="600px" colspan="3" bgcolor="#D8BFD8">
 <div class="content">
 <div id="form_wrapper" class="form_wrapper" style="width: 550px; height: 467px; display: block;">
 <form class="register active" style="">
@@ -100,9 +102,11 @@ zverinyy-ray
 <div class="clear"></div>
 </div>
 </div>
+</td>
+<td width="250px" height="600px">
+<body text = blue background ="C:\Users\ZX400\Pictures\Desktop\проект\Без названия.jpg">
 </body>
 </td>
-<td width="250px" height="600px" bgcolor="#D8BFD8"></td>
 </tr>
 
 </tbody></table>
