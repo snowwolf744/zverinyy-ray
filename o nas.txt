@@ -1,0 +1,44 @@
+<html lang="en">
+  <head>
+    <title>
+zverinyy-ray
+</title>
+  </head>
+  <body>
+<body bgcolor="Khaki">
+</body>
+<body >
+<table border="2"bordercolor="#F0E68C"cellpadding="10"width="1250px"height="50px"align="center">
+<div class="container-fluid">
+<tr>
+<td width="250px"height="50px" bgcolor="#7B68EE"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/glavnaya.htm">Звериный рай</a></td>
+<td width="250px"height="50px" bgcolor="#FF8C00"><a href="ЧТО ТО БУДЕТ">Животные</a></td>
+<td width="250px"height="50px" bgcolor="#FFD700"><a href="ЧТО ТО БУДЕТ">Выставки</a></td>
+<td width="250px"height="50px" bgcolor="#87CEEB"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/o%20nas.htm">О нас</a></td>
+<td width="250px"height="50px" bgcolor="#00FF00"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/vkhod.htm">Вход</a></td>
+</tr>
+<tr>
+<td width="250px" height="900px">
+<body text = blue background ="C:\Users\ZX400\Pictures\Desktop\проект\Без названия.jpg">
+</body>
+</td>
+<td height="900px" colspan="3" bgcolor="#D8BFD8">
+<div class="content">
+<div id="form_wrapper" class="form_wrapper" style="width: 550px; height: 467px; display: block;">
+<body>
+<font size =+4><center>
+<H1> Здравствуйте.</H1> 
+Наш сайт предоставляет вам доступ к выставкам и информации о животных.
+Если вы попали впервые на наш сайт, то вы можете зарегестрироваться <a href = file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/registratsiya.htm>Здесь</a>.
+Приятного время препровождения на нашем сайте.
+</font></center>  
+</div>
+</td>
+<body text = blue background ="C:\Users\ZX400\Pictures\Desktop\проект\Без названия.jpg">
+<td width="250px" height="900px">
+</body>
+</td>
+</tr>
+</table>
+  </body>
+</html>
