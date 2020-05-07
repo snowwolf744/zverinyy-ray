@@ -1,23 +1,60 @@
-<html lang="en">
-  <head>
+<html lang="en"><head>
     <title>
 zverinyy-ray
 </title>
-  </head>
-  <body>
-<body bgcolor="Khaki">
-</body>
-<body >
-<table border="2"bordercolor="#F0E68C"cellpadding="10"width="1250px"height="50px"align="center">
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
+  <body bgcolor="Khaki" text="blue" background="C:\Users\ZX400\Pictures\Desktop\проект\Без названия.jpg">
+
+
+
 <div class="container-fluid">
-<tr>
-<td width="250px"height="50px" bgcolor="#7B68EE"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/glavnaya.htm">Звериный рай</a></td>
-<td width="250px"height="50px" bgcolor="#FF8C00"><a href="ЧТО ТО БУДЕТ">Животные</a></td>
-<td width="250px"height="50px" bgcolor="#FFD700"><a href="ЧТО ТО БУДЕТ">Выставки</a></td>
-<td width="250px"height="50px" bgcolor="#87CEEB"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/o%20nas.htm">О нас</a></td>
-<td width="250px"height="50px" bgcolor="#00FF00"><a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/vkhod.htm">Вход</a></td>
+</div><table border="2" bordercolor="#F0E68C" cellpadding="10" width="1250px" height="50px" align="center">
+<tbody><tr>
+<td width="250px" height="50px" bgcolor="#7B68EE">
+<a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/glavnaya.htm">Звериный рай</a>
+</td>
+<td width="250px" height="50px" bgcolor="#FF8C00">
+<a ::before="">
+Животные
+</a>
+<ul>
+<li>
+<a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/koshki.html" >Кошки
+</a>
+</li>
+<li>
+<a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/sobaki.html">Собаки
+</a>
+</li>
+<li>
+<a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/shinshilly.html">Шиншиллы
+</a>
+</li>
+</ul>
+</td>
+<td width="250px" height="50px" bgcolor="#FFD700">
+<a ::before="">
+Выставки
+</a>
+<ul>
+<li>
+<a href="">Кошек</a>
+</li>
+<li>
+<a href="">Собак</a>
+</li>
+<li>
+<a href="">Шиншилл</a>
+</li>
+</ul>
+</td>
+<td width="250px" height="50px" bgcolor="#87CEEB">
+<a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/o%20nas.htm">О нас</a>
+</td>
+<td width="250px" height="50px" bgcolor="#00FF00">
+<a href="file:///C:/Users/ZX400/Pictures/Desktop/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/vkhod.htm">Вход</a>
+</td>
 </tr>
-<tr>
 <td width="250px" height="900px">
 <body text = blue background ="C:\Users\ZX400\Pictures\Desktop\проект\Без названия.jpg">
 </body>
